@@ -1,6 +1,6 @@
 # R3GAN-JAX
 
-<img src="https://github.com/user-attachments/assets/7948b53d-5795-4c95-872d-980dd306be19" width=248 />
+<img src="https://github.com/user-attachments/assets/8c2c34be-deef-4376-92ff-98e3cbac8a1c" width=248 />
 
 A simple GAN implementation in JAX following the [R3GAN](https://arxiv.org/html/2501.05441v1) paper.
 
