@@ -1,6 +1,6 @@
 # R3GAN-JAX
 
-A simple GAN implementation in JAX following the R3GAN paper [https://arxiv.org/html/2501.05441v1].
+A simple GAN implementation in JAX following the [R3GAN](https://arxiv.org/html/2501.05441v1) paper.
 
 Use the MNIST example below as a starting point and adjust Dataloader and Network Architecture to match your particular usecase.
 
